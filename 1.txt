@@ -1,5 +1,9 @@
 hoilsdlgl
+<<<<<<< HEAD
 sd,fls
 
 dsg;s
 sadgasdg
+=======
+fsadhfs;g
+>>>>>>> f75246fe5e9bf8727ccbfbdfcb4c4781b500b8eb
