@@ -13,10 +13,16 @@ fsadhfs;g
 ho dsgds gdssosog
 
 
+<<<<<<< HEAD
 sdfsadg
 gs
 dgsg
 sdg
 gsdg
 ds
+=======
+
+gsal;dghsdsdjfl
+sdgflsdg
+>>>>>>> 77132a5ac486ec135a7de3c3e693f6b5ad2e94ed
 
